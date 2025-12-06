@@ -2,7 +2,7 @@
 Решение для "II Онлайн-хакатон по параллельному программированию на языке C#"
 
 
-
+```
 using System.Collections.Concurrent;
 using System.Diagnostics;
 using System.IO;
@@ -710,3 +710,4 @@ internal static class BenchmarkOptionsBridge
 		}
 	}
 }
+```
